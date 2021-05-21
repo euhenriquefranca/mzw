@@ -1,50 +1,30 @@
-# [Mastering Next.js](https://masteringnextjs.com/)
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-> A free video course for building static and server-side rendered applications with Next.js and React.
+## Getting Started
 
-Looking for the old course site? [Look no further!](https://github.com/leerob/mastering-nextjs-old-site)
+First, run the development server:
 
-## Course
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-### [React Overview](/course/react)
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-- Classes vs Functional Components
-- Props & State
-- React Hooks
-- ES6
-- JSX
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-### [Navigating Between Pages](/course/navigation)
+## Learn More
 
-- Link (client-side routing)
-- withRouter
-- getInitialProps
-- Retrieving data from URLs
+To learn more about Next.js, take a look at the following resources:
 
-### [Styling](/course/styling)
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-- CSS (Importing & Using)
-- Sass
-- CSS-in-JS (Custom \_app.js)
-- Styled-Components
-- Responsive + Mobile-First Design
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-### [Building A Blog With MDX](/course/mdx)
+## Deploy on Vercel
 
-- MDX vs CMS
-- Initial Setup
-- Managing Posts
-- Building Forms (StaticKit)
-- Using a Component Library (Theme UI)
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-### [Fetching Data](/course/fetching-data)
-
-- Static Sites with Next.js 9.3
-- Custom Server
-- Node.js & API Routes
-- GraphQL ([daydrink](https://github.com/leerob/daydrink))
-- Hasura ([daydrink](https://github.com/leerob/daydrink))
-
-### Resources
-
-- See [/resources](https://masteringnextjs.com/resources).
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
