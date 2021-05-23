@@ -144,22 +144,21 @@ const Index = () => (
           <Stack mt={8} spacing={8}>
             <VideoCard
               title="Boas Vindas"
-              length="00:28"
+              length="0:28"
               href="https://www.youtube.com/embed/AxNbDmYa0_Y"
             >
               No primeiro video iremos dar as boas vindas, e explicação geral do
               que irá aprender ao decorrer do curso.
             </VideoCard>
             <VideoCard
-              title="Explicação Geral Sobre Investimentos na Plataforma"
-              length="21:01"
-              href="#"
+              title="Mentalidade"
+              length="0:56"
+              href="https://www.youtube.com/embed/4RlJuzCdbYU"
             >
-              No segundo video iremos explicar um pouco como funciona esse
-              mercado de investimento de alto risco, explicando as vantagens e
-              desvantagens, e o porque você deve investir !!!
+              O que vai determinar se o seu resultado vai ser positivo ou
+              negativo.
             </VideoCard>
-            <VideoCard
+            {/* <VideoCard
               title="Como se Cadastrar na Plataforma e Realizar o Primeiro
               Depósito"
               length="09:49"
@@ -167,10 +166,10 @@ const Index = () => (
             >
               No terceiro video, uma explicação passo a passo como se cadastrar
               na plataforma da iq option
-            </VideoCard>
+            </VideoCard> */}
             <VideoCard
               title="Legendas da Plataforma"
-              length="04:03"
+              length="4:03"
               href="https://www.youtube.com/embed/YqcrZSDNQHI"
             >
               No quarto video, explicação das palavras que são tanto ditas na
@@ -178,7 +177,7 @@ const Index = () => (
             </VideoCard>
             <VideoCard
               title="Como Mexer nas Configurações da Plataforma"
-              length="08:52"
+              length="8:52"
               href="https://www.youtube.com/embed/lZR_aM-pNpo"
             >
               No quinto video explicações como por exempo sincronizar o horário
@@ -188,7 +187,7 @@ const Index = () => (
             </VideoCard>
             <VideoCard
               title="Contra Tendência/Notícias"
-              length="05:43"
+              length="5:43"
               href="https://www.youtube.com/embed/6n8Pb0ZRbKc"
             >
               No sexto video expicação sobre tendência e notícias.
@@ -203,42 +202,42 @@ const Index = () => (
             </VideoCard>
             <VideoCard
               title="Como Aplicar Sinais Recebidos de Forma Manual + Gale."
-              length="06:53"
+              length="6:53"
               href="https://www.youtube.com/embed/vJndh_-e4qc"
             >
               No oitavo video, explicação de como aplicar de forma manual sinais
               recebidos, configurando cada detalhe para não perder ele, +
               explicação na prática de como fazer um gale.
             </VideoCard>
-            <VideoCard
+            {/* <VideoCard
               title="Como Configurar Robô Premiun 3.0"
               length="23:34"
               href="#"
             >
               No nonô video, explicação de como configurar cada passo do robô
               premiun
-            </VideoCard>
-            <VideoCard
+            </VideoCard> */}
+            {/* <VideoCard
               title="Como Converter Sinais Recebidos e Colocar no Robô"
               length="33:12"
               href="#"
             >
               No décimo video, explicar como funciona o processo de conversão e
               colocar a lista no robô para operações
-            </VideoCard>
+            </VideoCard> */}
             <VideoCard
               title="Gestão de Banca e Juros Compostos (Quanto devo investir?)"
-              length="01:53"
+              length="1:53"
               href="https://www.youtube.com/embed/fcgpkdCkYDY"
             >
               No décimo primeiro video, explicar como funciona gestão de banca,
               quanto deve investir, qual a porcentagem de cada entrada.
             </VideoCard>
-            <VideoCard title="Stop Win e Stop Loss" length="11:20" href="#">
+            {/* <VideoCard title="Stop Win e Stop Loss" length="11:20" href="#">
               No décimo segundo video, explicar como funciona stop win e stop
               loss, mostrando o porque deve ter cada um deles, entender que nada
               funciona sem eles !
-            </VideoCard>
+            </VideoCard> */}
             <VideoCard
               title="Finalização"
               length="0:50"
